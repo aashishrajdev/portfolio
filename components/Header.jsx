@@ -99,7 +99,7 @@ const Header = () => {
         className="flex items-center gap-6 mt-2 mb-16"
       >
         <a
-          href="https://github.com/DrDead0"
+          href="https://github.com/aashishrajdev"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-transform duration-300"
@@ -118,7 +118,7 @@ const Header = () => {
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/ashish-gamedev/"
+          href="https://www.linkedin.com/in/aashishraj2022/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-transform duration-300"
@@ -133,7 +133,7 @@ const Header = () => {
           </svg>
         </a>
         <a
-          href="https://www.instagram.com/a.shiss.h"
+          href="https://www.instagram.com/rajaashish.dev"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-transform duration-300"
@@ -152,7 +152,7 @@ const Header = () => {
           </svg>
         </a>
         <a
-          href="https://x.com/I_Am_Mr_Ashu"
+          href="https://x.com/rajaashish_dev"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-transform duration-300"
