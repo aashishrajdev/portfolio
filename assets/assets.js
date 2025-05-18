@@ -101,7 +101,7 @@ export const workData = [
     title: "Urban Eye",
     description: "Camera Geolocation Application",
     bgImage: "/work-4.png",
-    link: "https://github.com/rajaashish.dev/urbaneyes.git",
+    link: "https://github.com/rajaashishdev/urbaneyes.git",
   },
   {
     title: "Learnod",
